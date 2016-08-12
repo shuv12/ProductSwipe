@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProductSwipe</string>
+    <string-array name="list_menu">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>View</item>
+        <item>Likes</item>
+        <item>Setting</item>
+    </string-array>
+</resources>
